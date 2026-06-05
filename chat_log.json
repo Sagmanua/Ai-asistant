@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-06-05 13:25:40",
+        "source": "jsonl",
+        "user": "what is php",
+        "assistant": "PHP is a server-side scripting language used for web development. For example, if you want to connect a website HTML form to a database, you write: echo Hello World inside PHP tags."
+    },
+    {
+        "timestamp": "2026-06-05 13:26:30",
+        "source": "ollama",
+        "user": "what is world of tank",
+        "assistant": "World of Tanks (WoT) is a popular online multiplayer massively multiplayer online game developed by Wargaming. It's primarily focused on World War II history, but it also covers other conflicts like the Mongol Conquests and the Great Northern Campaign.\n\nHere's an overview:\n\n**Gameplay:**\n\nIn WoT, players can choose from various tank types, each with its unique characteristics, such as speed, armor, firepower, and mobility. The game features a variety of maps, which are designed to promote teamplay and strategy.\n\n**Classes:**\n\nThe tanks in WoT are categorized into four classes:\n\n1. Light Tank (e.g., T-44, Panzer II)\n2. Medium Tank (e.g., T-34, KV-2)\n3. Heavy Tank (e.g., IS-2, Tiger I)\n4. Supersoldier (highly armored vehicles with advanced abilities)\n\n**Maps:**\n\nWoT features a range of maps, including:\n\n* Classic Maps: Original game maps from World War II\n* Battleship and Carrier Maps: Dedicated ship battles\n* Trench Maps: Historic settings for tank battles\n* Operation Map: Modern multiplayer modes\n\n**Multiplayer:**\n\nPlayers can engage in single-player or multi-player modes. In single-player, players can explore historical events, complete challenges, and earn rewards. Multiplayer involves teaming up with other players to take on opponents.\n\n**Community:**\n\nWoT has a dedicated community, known for its competitive playstyle, passionate fans, and regular updates with new content, including new tank releases, events, and game modes.\n\n**Revenue Model:**\n\nThe game generates revenue through:\n\n* In-game purchases ( cosmetic items, premium currency)\n* Season passes\n* Monthly subscriptions\n\nWoT has a dedicated user base, with millions of registered players worldwide. It's available on PC (via Steam) and mobile devices."
+    },
+    {
+        "timestamp": "2026-06-05 13:29:15",
+        "source": "jsonl",
+        "user": "what is world of tank",
+        "assistant": "this is a game that you play"
+    }
+]
